@@ -1,0 +1,31 @@
+.container{
+    width: 992px;
+    margin-inline: auto;
+}
+header {
+    width: 100%;
+    background-color:darkgrey;
+}
+nav a{
+    color:black;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+header nav > div {
+    gap: 0 15px;
+}
+.yelsabami {
+   display: flex;
+   justify-content:space-around;
+}
+.text {
+    color: darkred;
+    font-size: 25px;
+}
+.h-1{
+    text-align: center;
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'BPG Algeti Compact';
+    src: url('../assets/fonts/BPGAlgetiCompact.woff') format('woff2'),
+        url('../assets/fonts/BPGAlgetiCompact.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
