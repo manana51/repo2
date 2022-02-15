@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style/signup.css">
+    <link rel="stylesheet" type="text/css" href="style/flexbox.css">
+    <link rel="stylesheet" type="text/css" href="style/style.css">
+    <title>
+        ავტორიზაცია | jewellery
+    </title>
+</head>
+
+<body>
+    <header class="d-flex align-items-center">
+        <nav class="container d-flex justify-content-between">
+            <div class="d-flex">
+                <a href="index.html">მთავარი</a>
+                <a href="jewelry.html">ფასდაკლებები</a>
+                <a href="#">სამკაულები</a>
+                <a href="#">სიახლეები</a>
+            </div>
+            <div class="d-flex">
+                <a href="signin.html">sign in</a>
+                <a href="signup.html">sign up</a>
+            </div>
+        </nav>
+    </header>
+    <div class="signin-contaner">
+        <form action="" method="get">
+            <div class="form-group">
+                <label class="text-input-label" for="username">მომხმარებლის სახელი</label>
+                <input class="textinput" type="text" name="username" id="username" placeholder="ჩაწერეთ თქვენი სახელი">
+            </div>
+            <div class="form-group">
+                <label class="text-input-label" for="pass">პაროლი</label>
+                <input class="textinput" type="password" name="pass" id="pass">
+                <a class="reset-pass-link" href="resetpass.html">პაროლის აღდგენა</a>
+            </div>
+            <div class="form-group">
+                <input type="checkbox" name="save" id="save">
+                <label for="save">დამახსოვრება</label>
+            </div>
+            <button class="btn btn-primery w-100 mb-15">შესვლა</button>
+            <a class="btn btn-link" href="signup.html">რეგისტრაცია</a>
+        </form>
+    </div>
+</body>
+
+</html>

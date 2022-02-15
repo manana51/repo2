@@ -5,6 +5,7 @@
 header {
     width: 100%;
     background-color:darkgrey;
+    position: fixed;
 }
 nav a{
     color:black;

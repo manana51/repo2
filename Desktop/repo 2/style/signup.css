@@ -1,0 +1,76 @@
+.signin-contaner{
+    width: 300px;
+    min-height: 200px;
+    border: 1px solid black;
+    margin:auto;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+.signin-contaner .text-input-label{
+    display: block;
+    margin-bottom: 5px;
+}
+.signin-contaner .textinput,
+.signin-contaner .location {
+    height: 30px;
+    display: block ;
+    width: 100%;
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-color: black;
+}
+.signin-contaner .location{
+    background-color: white;
+}
+.form-group{
+    margin-bottom: 15px;
+}
+/* width:100% */
+.w-100{
+    width: 100%;
+}
+/* margin-bottom:15px */
+.mb-15{
+    margin-bottom: 15px;
+}
+.btn{
+    display: block;
+    font-size: 16px;
+    height: 35px;
+    text-align: center;
+    border: 0px;
+    cursor: pointer;
+    width: 100%;
+}
+.btn-primery{
+    background-color: rgb(61, 45, 167);
+}
+.btn-link{
+    text-decoration: none;
+    display:flex;
+    justify-content: center;
+    color: darkgreen;
+}
+.btn-link:hover{
+    text-decoration: underline;
+}
+/* .submit-button{
+    display: block;
+    width: 100%;
+    height: 30px;
+    background-color: darkslateblue;
+    border: 0px;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 15px;
+} */
+.reset-pass-link{
+    display: block;
+    text-align: center;
+    font-size: 12px;
+}
+.sex-contaner{
+    display: inline-block;
+}

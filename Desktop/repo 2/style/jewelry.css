@@ -5,6 +5,7 @@
 header {
     width: 100%;
     background-color:darkgrey;
+    position: fixed;
 }
 nav a{
     color:black;
@@ -31,4 +32,34 @@ header nav > div {
 }
 body{
     background-color:rgb(238, 222, 199);
+}
+.group{
+    background-color: white;
+    position: relative;
+    width: 400px;
+    height: 401px;
+    left: 70px;
+    top: 70px;}
+.img{
+    background-color: white;
+    display: inline-block;
+    color: rgba(247, 9, 9, 0.986);
+    position: absolute;
+    right: 46px;
+    top: 52px;
+}
+.img-1{
+    height: 300px;
+    margin: 44px 51px;
+}
+.group-1{
+    background-color: white;
+    position: relative;
+    width: 403px;
+    height: 401px;
+    left: 570px;
+    top: -331px;
+}
+.img-2{
+    width: 310px;
 }
