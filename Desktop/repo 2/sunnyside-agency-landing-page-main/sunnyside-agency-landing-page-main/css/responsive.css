@@ -1,11 +1,10 @@
 /* leptops */
-@media screen and (max-width:1440px) {
+/* @media screen and (max-width:1440px) {
 .conteiner{
     width: 992px;
-}
-}
-/* tablets */
-@media screen and (max-width: 992px){
+} */
+ /* tablets */
+/* @media screen and (max-width: 992px){
     body {
         width: 768px;
     }
@@ -39,9 +38,9 @@
         width: 768px;
     }
 
-}
+} */
 /* mobile */
-@media screen and (max-width: 768px){
+/* @media screen and (max-width: 768px){
     
     body {
         width: 568px;
@@ -53,4 +52,107 @@
 @media screen and (max-width: 568px){
     .conteiner{
         width: 100%;
+} */
+@media only screen and (max-width: 375px) {
+    .conteiner,
+    .grid-conteiner,
+    .grid-conteiner-2,
+    .grid-1,
+    .grid-3,
+    .graphic-desingn,
+    .photography,
+    .client-testimonials,
+    .grid-end
+    {
+        grid-template-columns: repeat(1,1fr);
+    }
+
+footer{
+    width: 375px;
+    align-items: center;
+}
+header{
+    width: 375px;
+    height: 600px;
+    text-align: center;
+}
+.arrow{
+    top: 45%;
+    left: 45%;
+}
+.main-header{
+    font-size: 40px;
+}
+.img-1,
+.img-2,
+.tangerine,
+.cherry {
+    width: 375px ;
+}
+
+.text-1,
+.text-2,
+.cherry-text,
+.tangerine-text
+{
+    width: 350px;
+    padding: 40px 20px 40px 10px;
+    align-items: center;
+}
+.cherry-text{
+    left:15px;
+}
+.tangerine-text{
+    bottom:10px
+}
+.section-1,
+.section-2 {
+    font-size: 30px;
+    text-align: center;
+   
+}
+.section-1p,
+.section-2p {  
+    font-size: 16px;
+    font-weight:300;
+    width: 300px;
+    text-align: center;
+    line-height: 1.5;
+    
+}
+.section-1a,
+.section-2a {
+    font-size: 14px;
+}
+
+.client-testimonials{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 16px ;
+    width: 375px;
+}
+
+
+.emily,
+.thomas,
+.jennie{
+    align-items: center;
+    text-align: center;
+    width: 300px;
+    font-size: 16px;
+    padding: 0px 60px 0px 0px;
+}
+
+.cherry-text,
+.tangerine-text {
+    left: 15px;
+
+ 
+}
+.tangerine-text {
+    bottom: 10px;
+}
+.cherry-text {
+    bottom: 310px;
+}
 }
