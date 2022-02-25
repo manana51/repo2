@@ -39,7 +39,9 @@ body{
     width: 400px;
     height: 401px;
     left: 70px;
-    top: 70px;}
+    top: 70px;
+animation-name: stretch;
+}
 .img{
     background-color: white;
     display: inline-block;
