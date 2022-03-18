@@ -1,0 +1,89 @@
+*{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-family: 'Caveat', cursive;
+}
+.chef{
+    position: absolute;
+    width: 874px;
+    height: 582px;
+    left: -20px;
+    top: 3600px;
+}
+.coffe{
+    width: 160px;
+    height: 150px;
+    filter: drop-shadow(10px 20px 40px rgba(77, 42, 0, 0.2));
+    margin-top: 1018px;
+    margin-left: -366px;
+}
+.map-1{
+    position: absolute;
+    width: 215px;
+    height: 200px;
+    left: 502px;
+    top: 3742px;
+    filter: drop-shadow(10px 20px 40px rgba(77, 42, 0, 0.2));
+}
+.fund-button{
+    position: absolute;
+    width: 58px;
+    height: 32px;
+    left: 760px;
+    top: 3670px;
+    background: #5EAE53;
+    border-radius: 8px;
+    font-family: 'DM Sans';
+    line-height: 32px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.fund-text{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+    color: #333333;
+    margin-left: 152px;
+    margin-top: -393px;
+    width: 588px;
+}
+.fund-1-text{
+    margin-left: 148px;
+}
+.crisis{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: rgba(51, 51, 51, 0.501557);
+    margin-left: 151px;
+    width: 391px;
+}
+.fonda-button{
+    background-color: #EB8E78;
+    border-radius: 12px;
+    width: 170px;
+    height: 30px;
+    margin-top: 63px;
+    margin-left: 150px;
+    display: flex;
+    justify-content: center;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.wertilebi{
+    position: absolute;
+    left: 143px;
+    top: 3718px;
+}
+.wertilebi-2{
+    position: absolute;
+    left: 130px;
+    top: 3783px;
+}

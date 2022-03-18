@@ -164,12 +164,6 @@ footer a:link {
     margin-bottom: 30px;
 }
 .d-flex{
-    /* display: flex;
-    flex-wrap: wrap;
-    text-align: start;
-    align-items: center;
-    justify-content: flex-start;
-    margin: 0 80px 0 80px; */
     display: flex;
     width: 650px;
     justify-content: center;
@@ -184,7 +178,7 @@ footer a:link {
     letter-spacing: 0.5;
     line-height: 1.3;
 }
-}
+
 .p-1,
 .section-1p,
 .section-2p{

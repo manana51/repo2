@@ -1,0 +1,720 @@
+*{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-family: 'Caveat', cursive;
+}
+.conteiner{
+    width: 1440px;
+    /* height: 5296px; */
+}
+.header{
+    position: absolute;
+    width: 1440px;
+    height: 880px;
+    left: 0px;
+    top: 0px;
+    background-color: #5EAE53;
+}
+.div-1{
+    width: 239px;
+    position: absolute;
+    left: 135px;
+    height: 48px;
+    color: #FFFFFF;
+    top: 16px;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-style: normal;
+    line-height: 48px;
+    font-size: 56px;
+}
+.div{
+    width: 1440px;
+    height: 75px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    text-align: center;
+    width: 426px;
+    height: 32px;
+    left: 507px;
+    top: 25px;
+}
+.a-1{
+    color:#FFFFFF;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    text-decoration: none;
+}
+.logon{
+    Width:170px;
+    height:48px;
+    position: absolute;
+    border: 1px solid rgba(255, 255, 255, 0.295743); 
+    border-radius: 12px;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+    line-height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 11px;
+    margin-left: 1145px;
+}
+.wre-1{
+    height: 48px;
+    width: 48px;
+    position: absolute;
+    background: #EB8E78;
+    border-radius: 24px;
+    margin-top: 10px;
+    margin-left: 1340px;
+}
+.cart{
+    height: 20px;
+    width: 23.75px;
+    left: 1268px;
+    top: 30px;
+    border-radius: 0px;
+    margin-top: 12px;
+    margin-left: 10px;
+}
+.foodimg{
+    position: absolute;
+    width: 1200px;
+    height: 800px;
+    left: 123px;
+    top: 28px;
+    filter: drop-shadow(4px 4px 8px rgba(128, 70, 0, 0.500226));
+}
+.food-1{
+    position: absolute;
+    width: 400px;
+    height: 455px;
+    left: 835px;
+    top: 224px;
+    filter: drop-shadow(10px 20px 40px rgba(7, 57, 0, 0.197973));
+}
+.food-2{
+    position: absolute;
+    width: 309px;
+    height: 221px;
+    left: 703px;
+    top: 544px;
+    filter: drop-shadow(10px 20px 40px rgba(7, 57, 0, 0.197973));
+}
+.food-3{
+    position: absolute;
+    width: 170px;
+    height: 176px;
+    left: 1135px;
+    top: 160px;
+    filter: drop-shadow(10px 20px 40px rgba(7, 57, 0, 0.197973));
+}
+.oval{
+    /* Oval */
+position: absolute;
+width: 140px;
+height: 140px;
+left: 1145px;
+top: 595px;
+box-shadow: 5px 10px 30px rgba(97, 49, 0, 0.15);
+}
+.shape{
+    position: absolute;
+    width: 40px;
+    height: 46.5px;
+    left: 1190px;
+    top: 636px;
+}
+h3{
+    position: absolute;
+    width: 347px;
+    height: 63px;
+    left: 135px;
+    top: 193px;
+    font-family: 'Caveat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 63px;
+    color: #F6B76C;
+}
+.header-h1{
+    position: absolute;
+    width: 533px;
+    height: 240px;
+    left: 135px;
+    top: 271px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 80px;
+    /* or 111% */
+    color: #FFFFFF;
+}
+.oval-1{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 135px;
+    top: 784px;
+}
+.fb{
+    position: absolute;
+width: 9.33px;
+height: 16px;
+left: 154px;
+top: 800px;
+}
+.oval-2{
+    position: absolute;
+width: 48px;
+height: 48px;
+left: 191px;
+top: 784px;
+}
+.twitter{
+    position: absolute;
+    width: 16px;
+    height: 13px;
+    left: 207px;
+    top: 802px;
+}
+.oval-3{
+    position: absolute;
+width: 48px;
+height: 48px;
+left: 247px;
+top: 784px;
+}
+.instagram{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 263px;
+    top: 800px;
+}
+.categories{
+    position: absolute;
+    width: 125px;
+    height: 32px;
+    left: 663px;
+    top: 955px;}
+.categories,
+.restourants-1{ background-color: #5EAE53;
+    border-radius: 12px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 32px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.restourants{
+    position: absolute;
+    width: 125px;
+    height: 32px;
+    top: 1470px;
+    left: 60px;
+}
+.popularcat{
+    position: absolute;
+    width: 550px;
+    height: 64px;
+    left: 479px;
+    top: 1000px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+    color: #333333;
+    text-align: center;
+}
+.grid{
+    display:grid;
+  grid-template-columns: repeat(6,1fr);
+  margin-top: 1150px;
+}
+.pizza{
+    position: absolute;
+width: 39.92px;
+height: 47px;
+padding: 34px;
+}
+
+.oval-pizza{
+    position: absolute;
+width: 112px;
+height: 112px;
+}
+.pizza-text{
+    margin-top: 127px;
+    margin-left: 22px;
+}
+.price{
+    font-size: 35px;
+    margin-left: 35px;
+}
+.pizza-text,
+.price,
+.sushi-text,
+.price-sushi,
+.burger-text,
+.price-burger,
+.melon-text,
+.price-melon,
+.spageti-text,
+.price-spageti,
+.cake-text,
+.price-cake{
+    font-family: DM Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.sushi{
+    position: absolute;
+    width: 112px;
+    height: 112px;
+    left: 255px;
+    top: 1179px;
+}
+.burger{
+    position: absolute;
+    width: 112px;
+    height: 112px;
+    left: 510px;
+    top: 1179px;
+}
+.burger-icon,
+.melon-icon,
+.spageti-icon,
+.sushi-icon,
+.cake-icon{
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    left: 20px;
+    top: 20px;
+}
+.melon{
+    position: absolute;
+    width: 112px;
+    height: 112px;
+    left: 765px;
+    top: 1179px;
+}
+.spageti{
+    position: absolute;
+    width: 112px;
+    height: 112px;
+    left: 1020px;
+    top: 1179px;
+}
+.cake{
+    position: absolute;
+    width: 112px;
+    height: 112px;
+    left: 1275px;
+    top: 1179px;
+}
+.fondas{
+    /* margin-top: 365px; */
+    font-family: Work Sans;
+    font-size: 56px;
+    width: 500px;
+    color: rgba(51, 51, 51, 1);
+}
+.restoran-p{
+    /* margin-top: 434px;
+    margin-left: -498px; */
+    font-family: DM Sans;
+    font-size: 20px;
+    color: rgba(51, 51, 51, 0.5016);
+    width: 300%;
+}
+.right{
+    position: absolute;
+    width: 48px;
+    margin-left: -40px;
+}
+.left{
+    position: absolute;
+    width: 48px;
+    left: 1190px;
+}
+.right-left{
+    margin-left: 1287px;
+    margin-top: -100px;
+}
+.conteiner-2{
+    display:grid;
+  grid-template-columns: repeat(4,1fr);
+  margin-top: 580px;
+  margin-left: 50px;
+}
+.laura{
+    display: flex;
+    background-image: url(../img/Rectangle\ \(1\).png);
+    width: 270px;
+    height: 208px;
+}
+.laura-text,
+.rosa-text,
+.le-text,
+.grand-text{
+    display: flex;
+    margin-top: 215px;
+    width: 162px;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 32px;
+}
+.time,
+.time-2,
+.time-3,
+.time-4{
+    display: flex;
+    width: 81px;
+    margin-left: -162px;
+    margin-top: 255px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+}
+.star{
+    position: absolute;
+    width: 97px;
+    height: 42px;
+    left: 63px;
+    top: 1737px;
+    background: #EB8E78;
+    border-radius: 8px;
+}
+.star-icon,
+.star-icon-2,
+.star-icon-3,
+.star-icon-4{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.shefaseba,
+.shefaseba-2,
+.shefaseba-3,
+.shefaseba-4,
+.shefaseba-5{
+    display: flex;
+    margin-top: -32px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    margin-left: 51px;
+    color: #FFFFFF;
+}
+.rosa{
+    display: flex;
+    background-image: url(../img/Rectangle\ \(2\).png);
+    width: 270px;
+    height: 208px;
+}
+.star-2{
+    position: absolute;
+    width: 97px;
+    height: 42px;
+    left: 411px;
+    top: 1737px;
+    background: #EB8E78;
+    border-radius: 8px;
+}
+.le{
+    display: flex;
+    background-image: url(../img/Rectangle\ \(3\).png);
+    width: 270px;
+    height: 208px;
+}
+.star-3{
+    position: absolute;
+    width: 97px;
+    height: 42px;
+    left: 759px;
+    top: 1737px;
+    background: #EB8E78;
+    border-radius: 8px;
+}
+.grand{
+    display: flex;
+    background-image: url(../img/Rectangle\ \(4\).png);
+    width: 270px;
+    height: 208px;
+}
+.star-4{
+    position: absolute;
+    width: 97px;
+    height: 42px;
+    left: 1107px;
+    top: 1737px;
+    background: #EB8E78;
+    border-radius: 8px;
+}
+.man{
+    display: flex;
+    margin-top: 110px;
+}
+.man-1{
+    margin-left: -120px;
+}
+.man-photo{
+width: 840px;
+height: 560px;
+left: 0px;
+top: 2096px;
+}
+.filter{
+    position: absolute;
+    width: 175px;
+    height: 175px;
+    left: 20px;
+    top: 2233px;
+}
+.map{
+    position: absolute;
+    width: 190px;
+    height: 190px;
+    left: 425px;
+    top: 2330px;
+}
+.wertili{
+    position: absolute;
+    width: 188px;
+    height: 52px;
+    left: 377px;
+    top: 2125px;
+}
+.wertili-2{
+    position: absolute;
+    width: 188px;
+    height: 52px;
+    left: 379px;
+    top: 2190px;
+}
+.map-button{
+    position: absolute;
+    width: 58px;
+    height: 32px;
+    left: 692px;
+    top: 2161px;
+    background: #5EAE53;
+    border-radius: 8px;
+    font-family: 'DM Sans';
+    line-height: 32px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.searche{
+    margin-top: 170px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+    margin-left: -37px;
+}
+.searche-1{
+    font-family: 'DM Sans';
+    color: rgba(51, 51, 51, 0.501557);
+    margin-left: -31px;
+}
+.textinput{
+    height: 40px;
+    display: block;
+    width: 300px;
+    box-sizing: border-box;
+    padding-left: 20px;
+    border-radius: 12px;
+    margin-top: 80px;
+    margin-left: -32px;
+    font-family: 'DM Sans';
+    font-size: 16px;
+    line-height: 32px;
+    color: rgba(51, 51, 51, 0.501557);
+}
+.serch{
+    background: #EB8E78;
+    border-radius: 12px;
+    width: 170px;
+    height: 40px;
+    margin-top: -41px;
+    margin-left: 322px;
+    display: flex;
+    justify-content: center;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.gilaki{
+    width: 122px;
+    height: 32px;
+    background: #5EAE53;
+    border-radius: 8px;
+    margin-top: 76px;
+    margin-left: 50px;
+    font-family: DM Sans;
+    font-size: 20px;
+    line-height: 34px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+.best{
+    font-family: 'Work Sans';
+    font-size: 56px;
+    line-height: 64px;
+    color: #333333;
+    margin-left: 50px;
+}
+.menus-text{
+    font-family: 'DM Sans';
+    font-size: 16px;
+    color: rgba(51, 51, 51, 0.501557);
+    margin-left: 50px;
+}
+.d-flex{
+    display: flex;
+    background-image: url(../img/Rectangle\ \(5\).png);
+    width: 270px;
+    height: 208px;
+    margin-top:70px;
+    margin-left: 20px;
+    border-radius: 12px 0px 0px 12px;
+}
+.hot-text,
+.saladish-text,
+.pastish-text{
+    font-family: 'Work Sans';
+    line-height: 32px;
+    color: #333333;
+    margin-left: 300px;
+}
+.two{
+    position: absolute;
+    left: 329px;
+    top: 3025px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: rgba(51, 51, 51, 0.501557);
+}
+.time-5{
+    font-family: 'DM Sans';
+    line-height: 32px;
+    color: #333333;
+    margin-top: 173px;
+    width: 156px;
+    position: absolute;
+    margin-left: 302px;
+}
+.star-5{
+    position: absolute;
+    width: 89px;
+    height: 32px;
+    left: 35px;
+    top: 2958px;
+    background: #EB8E78;
+    border-radius: 8px;
+}
+.flex-2{
+    background-image: url(../img/Rectangle\ \(6\).png);
+    position: absolute;
+    width: 270px;
+    height: 208px;
+    left: 767px;
+    border-radius: 12px 0px 0px 12px;
+}
+.fruits{
+    position: absolute;
+    left: 300px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: rgba(51, 51, 51, 0.501557);
+    width: 135px;
+}
+.time-6,
+.time-7,
+.time-8{
+    font-family: 'DM Sans';
+    line-height: 32px;
+    color: #333333;
+    margin-top: 100px;
+    width: 156px;
+    position: absolute;
+    margin-left: 302px;
+}
+.star-6{
+    position: absolute;
+    width: 89px;
+    height: 32px;
+    left: 10px;
+    top: 10px;
+    background: #EB8E78;
+    border-radius: 8px;
+}
+.flex-3{
+    background-image: url(../img/Rectangle\ \(7\).png);
+    position: absolute;
+    width: 270px;
+    height: 208px;
+    left: 735px;
+    border-radius: 12px 0px 0px 12px;
+    left: 30px;
+    margin-top: 316px;
+}
+.bacon,
+.pasta-2{
+    position: absolute;
+    left: 300px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: rgba(51, 51, 51, 0.501557);
+    width: 300px;
+}
+.other-text{
+    font-family: 'Work Sans';
+    line-height: 32px;
+    color: #333333;
+    margin-left: 300px;
+    width: 300px;
+}
+.flex-4{
+    background-image: url(../img/Rectangle\ \(8\).png);
+    position: absolute;
+    width: 270px;
+    height: 208px;
+    left: 735px;
+    border-radius: 12px 0px 0px 12px;
+    margin-top: -71px;
+}
